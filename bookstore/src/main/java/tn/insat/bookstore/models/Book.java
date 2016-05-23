@@ -1,4 +1,4 @@
-package com.lynx.bookstore.models;
+package tn.insat.bookstore.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,10 +1,10 @@
-package com.lynx.bookstore.dao;
+package tn.insat.bookstore.dao;
 
 import javax.transaction.Transactional;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.lynx.bookstore.models.Book;
+import tn.insat.bookstore.models.Book;
 
 /**
  * Note that all included methods are not implemented and its working code will
